@@ -1,0 +1,43 @@
+{
+  "document_name": "The_GALE_ENCYCLOPEDIA_of_MEDICINE_SECOND.pdf",
+  "total_pages": 759,
+  "successful_pages": 759,
+  "failed_pages": 0,
+  "extracted_text_size_bytes": 3134327,
+  "number_of_medical_sections": 12,
+  "sections_detected": [
+    "Causes and Symptoms",
+    "Causes",
+    "Key Terms",
+    "Organizations",
+    "Diagnosis",
+    "Resources",
+    "Description",
+    "Symptoms",
+    "Prognosis",
+    "Treatment",
+    "Prevention",
+    "Definition"
+  ],
+  "number_of_generated_chunks": 3470,
+  "category_distribution": {
+    "General Medicine": 6,
+    "Cardiology": 72,
+    "Neurology": 102,
+    "Psychiatry and Mental Health": 71,
+    "Dermatology": 39,
+    "Gastroenterology": 121,
+    "Endocrinology": 23,
+    "Respiratory Diseases": 48,
+    "Infectious Diseases": 96,
+    "Orthopedics": 40,
+    "Pediatrics": 38,
+    "Women's Health": 40,
+    "Diagnostic Procedures": 33,
+    "Medical Terminology": 7,
+    "Preventive Healthcare": 13,
+    "Emergency Medicine": 10
+  },
+  "publication_year": 2002,
+  "is_historical": true
+}

@@ -1,0 +1,100 @@
+{
+  "0ab64441-ac40-48c9-a707-c42a52f77017": {
+    "document_id": "0ab64441-ac40-48c9-a707-c42a52f77017",
+    "filename": "clinical_hypertension_diabetes_guide.pdf",
+    "pages": 2,
+    "chunks": 2,
+    "file_size_bytes": 1883,
+    "upload_date": "2026-11-12T05:55:51.908573+00:00"
+  },
+  "8148c9f7-06e4-4a51-9d02-77c65f979005": {
+    "document_id": "8148c9f7-06e4-4a51-9d02-77c65f979005",
+    "filename": "The_GALE_ENCYCLOPEDIA_of_MEDICINE_SECOND.pdf",
+    "pages": 759,
+    "chunks": 3470,
+    "file_size_bytes": 12226938,
+    "edition": "Second Edition",
+    "publication_year": 2002,
+    "source_type": "medical_reference_book",
+    "is_historical": true,
+    "medical_categories": [
+      "General Medicine",
+      "Cardiology",
+      "Neurology",
+      "Psychiatry and Mental Health",
+      "Dermatology",
+      "Gastroenterology",
+      "Endocrinology",
+      "Respiratory Diseases",
+      "Infectious Diseases",
+      "Orthopedics",
+      "Pediatrics",
+      "Women's Health",
+      "Diagnostic Procedures",
+      "Medical Terminology",
+      "Preventive Healthcare",
+      "Emergency Medicine"
+    ],
+    "upload_date": "2026-11-12T07:00:45.967351+00:00"
+  },
+  "auth_2023_Cardiology": {
+    "document_id": "auth_2023_Cardiology",
+    "filename": "WHO_Guideline_Hypertension_Management_2023.pdf",
+    "pages": 1,
+    "chunks": 1,
+    "file_size_bytes": 1346,
+    "edition": "2023 Global Guidelines",
+    "publication_year": 2023,
+    "source_type": "clinical_practice_guideline",
+    "is_historical": false,
+    "medical_categories": [
+      "Cardiology"
+    ],
+    "upload_date": "2026-11-12T07:00:46.376629+00:00"
+  },
+  "auth_2023_Endocrinology": {
+    "document_id": "auth_2023_Endocrinology",
+    "filename": "ICMR_Guidelines_Type_2_Diabetes_2023.pdf",
+    "pages": 1,
+    "chunks": 1,
+    "file_size_bytes": 1107,
+    "edition": "2023 National Guidelines",
+    "publication_year": 2023,
+    "source_type": "clinical_practice_guideline",
+    "is_historical": false,
+    "medical_categories": [
+      "Endocrinology"
+    ],
+    "upload_date": "2026-11-12T07:00:46.768972+00:00"
+  },
+  "auth_2024_Respiratory_Diseases": {
+    "document_id": "auth_2024_Respiratory_Diseases",
+    "filename": "CDC_Clinical_Guidance_Respiratory_Infections_2024.pdf",
+    "pages": 1,
+    "chunks": 1,
+    "file_size_bytes": 917,
+    "edition": "2024 Clinical Update",
+    "publication_year": 2024,
+    "source_type": "public_health_guideline",
+    "is_historical": false,
+    "medical_categories": [
+      "Respiratory Diseases"
+    ],
+    "upload_date": "2026-11-12T07:00:47.157559+00:00"
+  },
+  "auth_2024_Emergency_Medicine": {
+    "document_id": "auth_2024_Emergency_Medicine",
+    "filename": "MedlinePlus_NIH_Acute_Coronary_Syndromes_2024.pdf",
+    "pages": 1,
+    "chunks": 1,
+    "file_size_bytes": 874,
+    "edition": "2024 Reference Update",
+    "publication_year": 2024,
+    "source_type": "clinical_reference",
+    "is_historical": false,
+    "medical_categories": [
+      "Emergency Medicine"
+    ],
+    "upload_date": "2026-11-12T07:00:47.549582+00:00"
+  }
+}

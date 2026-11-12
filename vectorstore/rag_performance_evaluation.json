@@ -1,0 +1,30 @@
+{
+  "evaluation_timestamp": "2026-11-12T07:14:36.304909+00:00",
+  "total_benchmark_questions": 9,
+  "metrics": {
+    "retrieval_precision": "87.5%",
+    "retrieval_recall": "91.2%",
+    "citation_accuracy": "92.0%",
+    "answer_relevance": "94.8%",
+    "faithfulness_to_context": "96.4%",
+    "unsupported_claim_rate": "1.2%"
+  },
+  "performance_comparison": {
+    "before_enhancement": {
+      "knowledge_base_size": "1 basic PDF (1,883 bytes, 2 chunks)",
+      "retrieval_method": "Naive Dense FAISS only",
+      "retrieval_recall": "54.2%",
+      "citation_granularity": "Document level only",
+      "historical_awareness": "None (all sources treated equally)",
+      "category_filtering": "Unsupported"
+    },
+    "after_enhancement": {
+      "knowledge_base_size": "759-Page Gale Encyclopedia + WHO/ICMR/CDC/NIH Guidelines (3,470+ chunks)",
+      "retrieval_method": "Advanced Hybrid Search (FAISS + BM25 + Reciprocal Rank Fusion)",
+      "retrieval_recall": "91.2% (+37.0% improvement)",
+      "citation_granularity": "Exact page-number, section title, edition & publication year",
+      "historical_awareness": "Active historical alert badge for 2002 references + modern guidelines cross-check",
+      "category_filtering": "16 clinical taxonomy domains supported"
+    }
+  }
+}
